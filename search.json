@@ -1,0 +1,237 @@
+[
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html",
+    "href": "modules/01-introduction/shoes-assessment.html",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "Test your understanding of appropriate footwear selection for accessibility testing scenarios.\n\n\n\nWhen conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing.\n\n\n\n\n\n\n\nWhich type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment.\n\n\n\n\n\n\n\nFor extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time.\n\n\n\n\n\n\n\nWhen testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids.\n\n\n\n\n\n\n\nWhat is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices.\n\n\n\n\n\n\n\n\n5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-1",
+    "href": "modules/01-introduction/shoes-assessment.html#question-1",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "When conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-2",
+    "href": "modules/01-introduction/shoes-assessment.html#question-2",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "Which type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-3",
+    "href": "modules/01-introduction/shoes-assessment.html#question-3",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "For extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-4",
+    "href": "modules/01-introduction/shoes-assessment.html#question-4",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "When testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-5",
+    "href": "modules/01-introduction/shoes-assessment.html#question-5",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "What is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#results",
+    "href": "modules/01-introduction/shoes-assessment.html#results",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html",
+    "href": "modules/01-introduction/02-selecting-shoes.html",
+    "title": "Selecting Shoes",
+    "section": "",
+    "text": "Selecting Appropriate Footwear",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
+    "href": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
+    "title": "Selecting Shoes",
+    "section": "Why Footwear Matters in Accessibility Testing",
+    "text": "Why Footwear Matters in Accessibility Testing\n\n\n\n\n\n\nNoteKey Insight\n\n\n\nYour choice of footwear can affect your mobility, balance, and ability to simulate real-world user scenarios during accessibility testing.\n\n\n\nTesting Scenarios Where Footwear Matters\n\nMobile Device Testing While Walking\n\nTesting apps during navigation scenarios\nEvaluating touch targets while in motion\nAssessing readability in various lighting conditions\n\nPhysical Accessibility Testing\n\nTesting wheelchair accessibility features\nEvaluating navigation aids and wayfinding\nSimulating mobility challenges\n\nVoice Interface Testing\n\nTesting in noisy environments (heel clicks, sole squeaks)\nEvaluating voice commands while moving",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
+    "href": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
+    "title": "Selecting Shoes",
+    "section": "Footwear Recommendations by Testing Type",
+    "text": "Footwear Recommendations by Testing Type\n\nFor Mobile Interface Testing\n\nComfortable sneakers: Provide stability when testing while walking\nNon-slip soles: Essential for outdoor testing scenarios\nQuiet footwear: Minimize background noise during voice testing\n\n\n\nFor Desktop/Stationary Testing\n\nSupportive shoes: Important for long testing sessions\nComfortable fit: Reduces fatigue during extended periods\nProfessional appearance: Appropriate for client meetings\n\n\n\nFor Field Testing\n\nWeather-appropriate: Waterproof for outdoor scenarios\nDurable construction: Handle various testing environments\nSafety features: Non-slip, protective if needed\n\n\n\n\n\n\n\nWarningSafety First\n\n\n\nAlways prioritize safety when selecting footwear for testing scenarios. Inappropriate shoes can lead to accidents and compromise your ability to conduct thorough testing.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
+    "href": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
+    "title": "Selecting Shoes",
+    "section": "Environmental Considerations",
+    "text": "Environmental Considerations\n\nIndoor Testing Environments\n\nConsider noise levels (hard soles vs. soft soles)\nRespect facility requirements (some require specific footwear)\nEnsure comfort for extended periods\n\n\n\nOutdoor Testing Scenarios\n\nWeather conditions (rain, snow, heat)\nTerrain considerations (uneven surfaces, stairs)\nDuration of testing activities",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#best-practices",
+    "href": "modules/01-introduction/02-selecting-shoes.html#best-practices",
+    "title": "Selecting Shoes",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nPlan Ahead: Review your testing agenda and environment\nBring Alternatives: Pack backup footwear when possible\nConsider Users: Think about how your target users might be dressed\nTest Realistically: Choose shoes that match real-world usage scenarios\nDocument Impact: Note how footwear choices affect testing results\n\n\n\n\n\n\n\nTipPro Tip\n\n\n\nKeep a pair of comfortable, quiet testing shoes in your work bag. This ensures you’re always prepared for impromptu testing sessions.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#summary",
+    "href": "modules/01-introduction/02-selecting-shoes.html#summary",
+    "title": "Selecting Shoes",
+    "section": "Summary",
+    "text": "Summary\nWhile often overlooked, footwear selection plays a practical role in accessibility testing effectiveness. By choosing appropriate shoes for different testing scenarios, you can:\n\nMaintain safety and comfort during testing\nReduce environmental factors that might skew results\nBetter simulate real-world user conditions\nConduct more thorough and realistic accessibility evaluations\n\nNext, we’ll explore the foundational principles of web accessibility that guide all our testing efforts.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Web Accessibility Testing",
+    "section": "",
+    "text": "Course Cover",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "Web Accessibility Testing",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course will take you through a complete journey of web accessibility testing, from understanding fundamental principles to implementing automated testing workflows. You’ll learn to identify barriers that prevent people with disabilities from accessing digital content and master the tools and techniques needed to create truly inclusive web experiences.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#what-youll-learn",
+    "href": "index.html#what-youll-learn",
+    "title": "Web Accessibility Testing",
+    "section": "What You’ll Learn",
+    "text": "What You’ll Learn\nBy the end of this course, you will be able to:\n\nUnderstand accessibility fundamentals: Master the core principles of web accessibility, WCAG guidelines, and legal requirements\nPerform comprehensive manual testing: Use assistive technologies like screen readers and keyboard-only navigation to experience your site as users with disabilities do\nApply practical testing considerations: Make informed decisions about testing environments, including footwear selection and physical preparation for various testing scenarios\nImplement automated testing workflows: Set up continuous accessibility testing using industry-standard tools and integrate them into development pipelines\nDevelop testing strategies: Create comprehensive accessibility testing plans that combine manual and automated approaches\nAddress common accessibility barriers: Identify and resolve typical issues related to color contrast, keyboard navigation, screen reader compatibility, and more",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "Web Accessibility Testing",
+    "section": "Course Structure",
+    "text": "Course Structure\nThis course is organized into focused modules that build upon each other:\n\nIntroduction Module\n\nWelcome & Course Overview: Get oriented with course expectations and learning outcomes\nSelecting Shoes: Practical considerations for footwear and physical preparation during accessibility testing\nAccessibility Fundamentals: Core principles, legal requirements, and WCAG guidelines\n\n\n\nAdvanced modules covering:\n\nManual testing techniques and assistive technology usage\nAutomated testing tools and implementation\nTesting strategy development and team integration\nReal-world case studies and problem-solving",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "Web Accessibility Testing",
+    "section": "Getting Started",
+    "text": "Getting Started\nBegin your journey by reviewing the welcome lesson to understand course expectations and set up your learning environment. Then, explore our practical guide to selecting appropriate footwear for various testing scenarios.\n\n\n\n\n\n\nNotePrerequisites\n\n\n\nWhile no prior accessibility experience is required, basic knowledge of HTML, CSS, and web development concepts will be helpful. Familiarity with developer tools in modern browsers is recommended.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-approach",
+    "href": "index.html#learning-approach",
+    "title": "Web Accessibility Testing",
+    "section": "Learning Approach",
+    "text": "Learning Approach\nThis course emphasizes hands-on learning through: - Interactive demonstrations using real websites and applications - Practical exercises with assistive technologies - Case study analysis of accessibility successes and failures - Tool-based learning with industry-standard testing software - Assessment activities to reinforce key concepts\nEach module includes assessments to help you measure your progress and identify areas for additional focus.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#support-and-resources",
+    "href": "index.html#support-and-resources",
+    "title": "Web Accessibility Testing",
+    "section": "Support and Resources",
+    "text": "Support and Resources\nThroughout the course, you’ll have access to: - Downloadable resources and checklists - Links to accessibility testing tools and browser extensions - Reference materials for WCAG guidelines - Community forums for discussion and questions\n\nReady to make the web more accessible for everyone? Let’s begin with the fundamentals and build your expertise step by step.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-welcome.html",
+    "href": "modules/01-introduction/01-welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-welcome.html#introduction",
+    "href": "modules/01-introduction/01-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  }
+]
