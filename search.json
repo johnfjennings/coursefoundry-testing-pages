@@ -77,69 +77,25 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/02-selecting-shoes.html",
-    "href": "modules/01-introduction/02-selecting-shoes.html",
-    "title": "Selecting Shoes",
+    "objectID": "modules/01-introduction/01-welcome.html",
+    "href": "modules/01-introduction/01-welcome.html",
+    "title": "Welcome",
     "section": "",
-    "text": "Selecting Appropriate Footwear",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
     "crumbs": [
       "Introduction",
-      "Selecting Shoes"
+      "Welcome"
     ]
   },
   {
-    "objectID": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
-    "href": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
-    "title": "Selecting Shoes",
-    "section": "Why Footwear Matters in Accessibility Testing",
-    "text": "Why Footwear Matters in Accessibility Testing\n\n\n\n\n\n\nNoteKey Insight\n\n\n\nYour choice of footwear can affect your mobility, balance, and ability to simulate real-world user scenarios during accessibility testing.\n\n\n\nTesting Scenarios Where Footwear Matters\n\nMobile Device Testing While Walking\n\nTesting apps during navigation scenarios\nEvaluating touch targets while in motion\nAssessing readability in various lighting conditions\n\nPhysical Accessibility Testing\n\nTesting wheelchair accessibility features\nEvaluating navigation aids and wayfinding\nSimulating mobility challenges\n\nVoice Interface Testing\n\nTesting in noisy environments (heel clicks, sole squeaks)\nEvaluating voice commands while moving",
+    "objectID": "modules/01-introduction/01-welcome.html#introduction",
+    "href": "modules/01-introduction/01-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
     "crumbs": [
       "Introduction",
-      "Selecting Shoes"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
-    "href": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
-    "title": "Selecting Shoes",
-    "section": "Footwear Recommendations by Testing Type",
-    "text": "Footwear Recommendations by Testing Type\n\nFor Mobile Interface Testing\n\nComfortable sneakers: Provide stability when testing while walking\nNon-slip soles: Essential for outdoor testing scenarios\nQuiet footwear: Minimize background noise during voice testing\n\n\n\nFor Desktop/Stationary Testing\n\nSupportive shoes: Important for long testing sessions\nComfortable fit: Reduces fatigue during extended periods\nProfessional appearance: Appropriate for client meetings\n\n\n\nFor Field Testing\n\nWeather-appropriate: Waterproof for outdoor scenarios\nDurable construction: Handle various testing environments\nSafety features: Non-slip, protective if needed\n\n\n\n\n\n\n\nWarningSafety First\n\n\n\nAlways prioritize safety when selecting footwear for testing scenarios. Inappropriate shoes can lead to accidents and compromise your ability to conduct thorough testing.",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
-    "href": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
-    "title": "Selecting Shoes",
-    "section": "Environmental Considerations",
-    "text": "Environmental Considerations\n\nIndoor Testing Environments\n\nConsider noise levels (hard soles vs. soft soles)\nRespect facility requirements (some require specific footwear)\nEnsure comfort for extended periods\n\n\n\nOutdoor Testing Scenarios\n\nWeather conditions (rain, snow, heat)\nTerrain considerations (uneven surfaces, stairs)\nDuration of testing activities",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-selecting-shoes.html#best-practices",
-    "href": "modules/01-introduction/02-selecting-shoes.html#best-practices",
-    "title": "Selecting Shoes",
-    "section": "Best Practices",
-    "text": "Best Practices\n\nPlan Ahead: Review your testing agenda and environment\nBring Alternatives: Pack backup footwear when possible\nConsider Users: Think about how your target users might be dressed\nTest Realistically: Choose shoes that match real-world usage scenarios\nDocument Impact: Note how footwear choices affect testing results\n\n\n\n\n\n\n\nTipPro Tip\n\n\n\nKeep a pair of comfortable, quiet testing shoes in your work bag. This ensures you’re always prepared for impromptu testing sessions.",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-selecting-shoes.html#summary",
-    "href": "modules/01-introduction/02-selecting-shoes.html#summary",
-    "title": "Selecting Shoes",
-    "section": "Summary",
-    "text": "Summary\nWhile often overlooked, footwear selection plays a practical role in accessibility testing effectiveness. By choosing appropriate shoes for different testing scenarios, you can:\n\nMaintain safety and comfort during testing\nReduce environmental factors that might skew results\nBetter simulate real-world user conditions\nConduct more thorough and realistic accessibility evaluations\n\nNext, we’ll explore the foundational principles of web accessibility that guide all our testing efforts.",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
+      "Welcome"
     ]
   },
   {
@@ -213,25 +169,69 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-welcome.html",
-    "href": "modules/01-introduction/01-welcome.html",
-    "title": "Welcome",
+    "objectID": "modules/01-introduction/02-selecting-shoes.html",
+    "href": "modules/01-introduction/02-selecting-shoes.html",
+    "title": "Selecting Shoes",
     "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "text": "Selecting Appropriate Footwear",
     "crumbs": [
       "Introduction",
-      "Welcome"
+      "Selecting Shoes"
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-welcome.html#introduction",
-    "href": "modules/01-introduction/01-welcome.html#introduction",
-    "title": "Welcome",
-    "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
+    "href": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
+    "title": "Selecting Shoes",
+    "section": "Why Footwear Matters in Accessibility Testing",
+    "text": "Why Footwear Matters in Accessibility Testing\n\n\n\n\n\n\nNoteKey Insight\n\n\n\nYour choice of footwear can affect your mobility, balance, and ability to simulate real-world user scenarios during accessibility testing.\n\n\n\nTesting Scenarios Where Footwear Matters\n\nMobile Device Testing While Walking\n\nTesting apps during navigation scenarios\nEvaluating touch targets while in motion\nAssessing readability in various lighting conditions\n\nPhysical Accessibility Testing\n\nTesting wheelchair accessibility features\nEvaluating navigation aids and wayfinding\nSimulating mobility challenges\n\nVoice Interface Testing\n\nTesting in noisy environments (heel clicks, sole squeaks)\nEvaluating voice commands while moving",
     "crumbs": [
       "Introduction",
-      "Welcome"
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
+    "href": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
+    "title": "Selecting Shoes",
+    "section": "Footwear Recommendations by Testing Type",
+    "text": "Footwear Recommendations by Testing Type\n\nFor Mobile Interface Testing\n\nComfortable sneakers: Provide stability when testing while walking\nNon-slip soles: Essential for outdoor testing scenarios\nQuiet footwear: Minimize background noise during voice testing\n\n\n\nFor Desktop/Stationary Testing\n\nSupportive shoes: Important for long testing sessions\nComfortable fit: Reduces fatigue during extended periods\nProfessional appearance: Appropriate for client meetings\n\n\n\nFor Field Testing\n\nWeather-appropriate: Waterproof for outdoor scenarios\nDurable construction: Handle various testing environments\nSafety features: Non-slip, protective if needed\n\n\n\n\n\n\n\nWarningSafety First\n\n\n\nAlways prioritize safety when selecting footwear for testing scenarios. Inappropriate shoes can lead to accidents and compromise your ability to conduct thorough testing.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
+    "href": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
+    "title": "Selecting Shoes",
+    "section": "Environmental Considerations",
+    "text": "Environmental Considerations\n\nIndoor Testing Environments\n\nConsider noise levels (hard soles vs. soft soles)\nRespect facility requirements (some require specific footwear)\nEnsure comfort for extended periods\n\n\n\nOutdoor Testing Scenarios\n\nWeather conditions (rain, snow, heat)\nTerrain considerations (uneven surfaces, stairs)\nDuration of testing activities",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#best-practices",
+    "href": "modules/01-introduction/02-selecting-shoes.html#best-practices",
+    "title": "Selecting Shoes",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nPlan Ahead: Review your testing agenda and environment\nBring Alternatives: Pack backup footwear when possible\nConsider Users: Think about how your target users might be dressed\nTest Realistically: Choose shoes that match real-world usage scenarios\nDocument Impact: Note how footwear choices affect testing results\n\n\n\n\n\n\n\nTipPro Tip\n\n\n\nKeep a pair of comfortable, quiet testing shoes in your work bag. This ensures you’re always prepared for impromptu testing sessions.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-selecting-shoes.html#summary",
+    "href": "modules/01-introduction/02-selecting-shoes.html#summary",
+    "title": "Selecting Shoes",
+    "section": "Summary",
+    "text": "Summary\nWhile often overlooked, footwear selection plays a practical role in accessibility testing effectiveness. By choosing appropriate shoes for different testing scenarios, you can:\n\nMaintain safety and comfort during testing\nReduce environmental factors that might skew results\nBetter simulate real-world user conditions\nConduct more thorough and realistic accessibility evaluations\n\nNext, we’ll explore the foundational principles of web accessibility that guide all our testing efforts.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
     ]
   }
 ]
