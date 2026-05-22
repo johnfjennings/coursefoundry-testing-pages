@@ -1,101 +1,302 @@
 [
   {
-    "objectID": "modules/01-introduction/shoes-assessment.html",
-    "href": "modules/01-introduction/shoes-assessment.html",
-    "title": "Selecting Shoes - Assessment",
-    "section": "",
-    "text": "Test your understanding of appropriate footwear selection for accessibility testing scenarios.\n\n\n\nWhen conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing.\n\n\n\n\n\n\n\nWhich type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment.\n\n\n\n\n\n\n\nFor extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time.\n\n\n\n\n\n\n\nWhen testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids.\n\n\n\n\n\n\n\nWhat is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices.\n\n\n\n\n\n\n\n\n5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles.",
-    "crumbs": [
-      "Introduction",
-      "Shoes Assessment"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/shoes-assessment.html#question-1",
-    "href": "modules/01-introduction/shoes-assessment.html#question-1",
-    "title": "Selecting Shoes - Assessment",
-    "section": "",
-    "text": "When conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing.",
-    "crumbs": [
-      "Introduction",
-      "Shoes Assessment"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/shoes-assessment.html#question-2",
-    "href": "modules/01-introduction/shoes-assessment.html#question-2",
-    "title": "Selecting Shoes - Assessment",
-    "section": "",
-    "text": "Which type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment.",
-    "crumbs": [
-      "Introduction",
-      "Shoes Assessment"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/shoes-assessment.html#question-3",
-    "href": "modules/01-introduction/shoes-assessment.html#question-3",
-    "title": "Selecting Shoes - Assessment",
-    "section": "",
-    "text": "For extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time.",
-    "crumbs": [
-      "Introduction",
-      "Shoes Assessment"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/shoes-assessment.html#question-4",
-    "href": "modules/01-introduction/shoes-assessment.html#question-4",
-    "title": "Selecting Shoes - Assessment",
-    "section": "",
-    "text": "When testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids.",
-    "crumbs": [
-      "Introduction",
-      "Shoes Assessment"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/shoes-assessment.html#question-5",
-    "href": "modules/01-introduction/shoes-assessment.html#question-5",
-    "title": "Selecting Shoes - Assessment",
-    "section": "",
-    "text": "What is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices.",
-    "crumbs": [
-      "Introduction",
-      "Shoes Assessment"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/shoes-assessment.html#results",
-    "href": "modules/01-introduction/shoes-assessment.html#results",
-    "title": "Selecting Shoes - Assessment",
-    "section": "",
-    "text": "5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles.",
-    "crumbs": [
-      "Introduction",
-      "Shoes Assessment"
-    ]
-  },
-  {
     "objectID": "modules/01-introduction/01-welcome.html",
     "href": "modules/01-introduction/01-welcome.html",
     "title": "Welcome",
     "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
-    "crumbs": [
-      "Introduction",
-      "Welcome"
-    ]
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material."
   },
   {
     "objectID": "modules/01-introduction/01-welcome.html#introduction",
     "href": "modules/01-introduction/01-welcome.html#introduction",
     "title": "Welcome",
     "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material."
+  },
+  {
+    "objectID": "modules/01-introduction/02-welcome.html",
+    "href": "modules/01-introduction/02-welcome.html",
+    "title": "Welcome",
+    "section": "",
     "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
     "crumbs": [
       "Introduction",
       "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-welcome.html#introduction",
+    "href": "modules/01-introduction/02-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html",
+    "href": "modules/01-introduction/06-platform-shoes.html",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Platform shoes have been a significant element in fashion and footwear throughout history, serving purposes ranging from practical height enhancement to bold fashion statements. This lesson explores the comprehensive world of platform shoes, from their ancient origins to modern applications.\n\n\nBy the end of this lesson, you will be able to:\n\nAnalyze the historical and cultural significance of platform shoes across different eras\nEvaluate safety considerations and biomechanical effects of platform shoe wear\nApply selection criteria to choose appropriate platform shoes for specific occasions and individual needs\n\n\n\n\n\n\nPlatform shoes date back to ancient civilizations: - Ancient Greece: Actors wore “kothorni” (elevated shoes) to indicate character status - Ancient Rome: Patricians used platform sandals to display social rank - 16th Century Venice: “Chopines” reached extreme heights up to 20 inches for wealthy women\n\n\n\n\n1930s-1940s: Carmen Miranda popularized fruit-decorated platforms\n1970s Disco Era: Platform shoes became mainstream fashion symbols\n1990s Revival: Spice Girls and alternative fashion brought platforms back\n2000s-Present: Continuous evolution with designer interpretations\n\n\n\n\n\n\n\nNoteCultural Context\n\n\n\nPlatform shoes have consistently served as symbols of status, rebellion, and self-expression across cultures, reflecting societal values and fashion movements.\n\n\n\n\n\n\n\n\nPlatform Construction: - Sole thickness: Typically 1-6 inches, with extreme versions reaching higher - Weight distribution: Critical for balance and comfort - Material selection: Cork, wood, foam, or composite materials - Heel integration: Platform-to-heel ratio affects stability\nStructural Considerations: - Arch support: Enhanced support needed due to altered foot position - Toe box design: Accommodation for changed weight distribution - Ankle support: Additional stability features often required - Flexibility zones: Strategic placement for natural foot movement\n\n\n\nWeight Management: - Balancing elevation with wearable weight - Material selection for strength-to-weight ratio - Distribution of mass across the platform\nStability Factors: - Center of gravity adjustments - Base width calculations - Heel placement optimization\n\n\n\n\n\n\nSubtle Platforms (1-2 inches): - Daily wear applications - Professional environment suitability - Minimal biomechanical impact\nModerate Platforms (2-4 inches): - Fashion-forward applications - Special occasion wear - Noticeable height enhancement\nDramatic Platforms (4+ inches): - Statement fashion pieces - Performance and stage applications - Significant biomechanical considerations\n\n\n\nAthletic Platforms: - Sneaker-based designs - Casual and streetwear applications - Enhanced comfort features\nFormal Platforms: - Dress shoe integration - Professional and evening wear - Sophisticated aesthetic considerations\nBoot Platforms: - Extended ankle support - Weather protection integration - Fashion and functional combinations\n\n\n\n\n\n\nBalance Challenges: - Altered center of gravity - Increased fall risk - Stair navigation difficulties\nAnkle Vulnerability: - Rolling and twisting injuries - Ligament strain potential - Stability training importance\n\n\n\nGradual Adaptation:\nWeek 1-2: 30 minutes daily wear\nWeek 3-4: 2-3 hours daily wear\nWeek 5+: Full-day wear capability\nSafety Practices: - Proper sizing and fit verification - Surface awareness and navigation - Emergency removal techniques - Balance and stability exercises\n\n\n\n\n\n\nWarningSafety Alert\n\n\n\nBeginners should start with lower platforms (1-2 inches) and gradually increase height as balance and confidence develop. Never attempt extreme platforms without proper preparation and practice.\n\n\n\n\n\n\n\n\nSituation: Professional dancer requires platforms for stage presence while maintaining performance capability.\nAnalysis: - Performance requirements vs. safety balance - Stage surface considerations - Costume integration needs - Quick-change capabilities\nSolution: - Custom-fitted 3-inch platforms with enhanced ankle support - Non-slip sole modifications for stage surfaces - Quick-release buckle system for costume changes - Extensive rehearsal and adaptation period\n\n\n\nSituation: Professional seeks subtle height enhancement for business environments.\nAnalysis: - Professional appearance requirements - All-day comfort needs - Stair and elevator navigation - Client interaction considerations\nSolution: - 1.5-inch dress shoe platforms with arch support - Professional leather construction - Gradual introduction with comfort monitoring - Alternative flat shoes for high-mobility days\n\n\n\n\n\n\n\nPosture improvement: Enhanced spine alignment in some cases\nConfidence boost: Psychological benefits of increased height\nCalf muscle engagement: Strengthening through altered walking pattern\n\n\n\n\n\nAchilles tendon shortening: With prolonged high platform wear\nBalance dependency: Reduced proprioceptive feedback\nJoint stress: Altered weight distribution effects\n\n\n\n\nDaily Assessment: - Foot and ankle comfort levels - Balance confidence ratings - Any pain or discomfort indicators - Walking pattern observations\nWeekly Evaluation: - Overall satisfaction with platform use - Any developing issues or concerns - Adaptation progress measurements - Alternative footwear rotation needs\n\n\n\n\n\n\nProfessional Settings: - Subtle platforms (1-2 inches maximum) - Conservative styling and colors - All-day comfort prioritization - Professional appearance maintenance\nSocial Events: - Moderate to dramatic platforms acceptable - Fashion-forward styling options - Event duration considerations - Outfit coordination importance\nPerformance Applications: - Function-specific design requirements - Enhanced safety features - Audience visibility considerations - Movement requirement accommodation\n\n\n\nPhysical Considerations: - Current height and desired enhancement - Balance and coordination abilities - Existing foot or ankle conditions - Activity level and mobility needs\nLifestyle Integration: - Daily routine compatibility - Transportation considerations - Storage and maintenance requirements - Budget and investment justification\n\n\n\n\n\n\nObjective: Evaluate personal stability and comfort with different platform heights.\nMaterials Needed: - Various platform shoes (1, 2, 3+ inches) - Stable practice surface - Timer - Safety spotter\nProcedure: 1. Start with lowest platform height 2. Stand still for 30 seconds, assess comfort 3. Walk 10 steps forward and backward 4. Practice stair climbing (if available) 5. Record comfort and confidence levels 6. Progress to next height level 7. Identify optimal height for regular wear\nAssessment Criteria: - Balance confidence (1-10 scale) - Comfort level (1-10 scale) - Walking naturalness (1-10 scale) - Overall suitability rating\n\n\n\nObjective: Practice coordinating platform shoes with various outfit styles.\nMaterials: - Selection of platform shoes - Various clothing options - Full-length mirror - Style reference materials\nTasks: 1. Create professional outfit with subtle platforms 2. Design casual ensemble with moderate platforms 3. Plan evening look with dramatic platforms 4. Assess proportions and aesthetic balance 5. Document successful combinations\n\n\n\nObjective: Develop skills for safe platform wear in various situations.\nScenarios to Practice: - Navigating stairs safely - Getting in and out of vehicles - Walking on uneven surfaces - Emergency quick removal - Recovery from minor stumbles\n\n\n\n\n\n\nTipProfessional Insight\n\n\n\nMany fashion stylists recommend the “elevator test” - if you can’t confidently navigate an elevator entrance and exit in your platforms, they may be too high for practical wear.\n\n\n\n\n\n\n\n\nPlatform Attachment: - Secure bonding methods - No visible separation or gaps - Uniform thickness distribution - Durable adhesive or mechanical fastening\nMaterial Quality: - Appropriate density for weight support - Resistance to compression and wear - Moisture resistance properties - Longevity under regular use\n\n\n\nCritical Fit Points: - Heel security and slip prevention - Arch support adequacy - Toe box comfort and space - Overall foot stability within shoe\nComfort Testing Protocol: 1. Wear for 15 minutes in store 2. Test various movements and positions 3. Check for pressure points or rubbing 4. Verify proper sizing across all areas 5. Consider break-in period requirements\n\n\n\n\n\n\n\nSustainable materials: Eco-friendly platform construction\nCustomization options: Personal fit and style preferences\nTechnology integration: Smart features and comfort enhancements\nInclusive sizing: Extended size ranges and width options\n\n\n\n\n\nAdaptive platforms: Height-adjustable mechanisms\nSmart cushioning: Responsive comfort technologies\nLightweight composites: Reduced weight with maintained strength\n3D printing applications: Custom-fitted platform creation\n\n\n\n\n\nPlatform shoes represent a unique intersection of fashion, function, and personal expression. Success with platform wear requires:\nEssential Preparation: - Understanding historical and cultural context - Proper selection based on individual needs - Gradual adaptation and safety awareness - Quality assessment and fit prioritization\nOngoing Considerations: - Regular comfort and safety monitoring - Appropriate occasion-based selection - Maintenance of alternative footwear options - Continuous assessment of personal satisfaction\nProfessional Development: - Stay informed about industry trends - Develop expertise in fit assessment - Understand biomechanical implications - Maintain focus on individual client needs\nPlatform shoes, when properly selected and worn, can provide both practical benefits and personal satisfaction while maintaining safety and comfort standards.\n\n\n\n\n\n\nWhat historical period most influences your platform shoe preferences and why?\nHow would you assess your personal readiness for different platform heights?\nWhat safety considerations are most relevant to your lifestyle and needs?\nHow do platform shoes fit into your personal style and professional requirements?\n\n\n\n\nDevelop a personal platform shoe strategy including: - Preferred height ranges for different occasions - Safety practices and adaptation timeline - Budget considerations and quality priorities - Integration with existing wardrobe and lifestyle\n\n\n\n\n\n\nNoteProfessional Development\n\n\n\nConsider exploring specialized training in footwear fitting, biomechanics, or fashion styling to deepen your expertise in platform shoe applications and recommendations.",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#learning-outcomes",
+    "href": "modules/01-introduction/06-platform-shoes.html#learning-outcomes",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nAnalyze the historical and cultural significance of platform shoes across different eras\nEvaluate safety considerations and biomechanical effects of platform shoe wear\nApply selection criteria to choose appropriate platform shoes for specific occasions and individual needs",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#historical-evolution-and-cultural-significance",
+    "href": "modules/01-introduction/06-platform-shoes.html#historical-evolution-and-cultural-significance",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Platform shoes date back to ancient civilizations: - Ancient Greece: Actors wore “kothorni” (elevated shoes) to indicate character status - Ancient Rome: Patricians used platform sandals to display social rank - 16th Century Venice: “Chopines” reached extreme heights up to 20 inches for wealthy women\n\n\n\n\n1930s-1940s: Carmen Miranda popularized fruit-decorated platforms\n1970s Disco Era: Platform shoes became mainstream fashion symbols\n1990s Revival: Spice Girls and alternative fashion brought platforms back\n2000s-Present: Continuous evolution with designer interpretations\n\n\n\n\n\n\n\nNoteCultural Context\n\n\n\nPlatform shoes have consistently served as symbols of status, rebellion, and self-expression across cultures, reflecting societal values and fashion movements.",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#design-principles-and-structural-engineering",
+    "href": "modules/01-introduction/06-platform-shoes.html#design-principles-and-structural-engineering",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Platform Construction: - Sole thickness: Typically 1-6 inches, with extreme versions reaching higher - Weight distribution: Critical for balance and comfort - Material selection: Cork, wood, foam, or composite materials - Heel integration: Platform-to-heel ratio affects stability\nStructural Considerations: - Arch support: Enhanced support needed due to altered foot position - Toe box design: Accommodation for changed weight distribution - Ankle support: Additional stability features often required - Flexibility zones: Strategic placement for natural foot movement\n\n\n\nWeight Management: - Balancing elevation with wearable weight - Material selection for strength-to-weight ratio - Distribution of mass across the platform\nStability Factors: - Center of gravity adjustments - Base width calculations - Heel placement optimization",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#types-and-variations",
+    "href": "modules/01-introduction/06-platform-shoes.html#types-and-variations",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Subtle Platforms (1-2 inches): - Daily wear applications - Professional environment suitability - Minimal biomechanical impact\nModerate Platforms (2-4 inches): - Fashion-forward applications - Special occasion wear - Noticeable height enhancement\nDramatic Platforms (4+ inches): - Statement fashion pieces - Performance and stage applications - Significant biomechanical considerations\n\n\n\nAthletic Platforms: - Sneaker-based designs - Casual and streetwear applications - Enhanced comfort features\nFormal Platforms: - Dress shoe integration - Professional and evening wear - Sophisticated aesthetic considerations\nBoot Platforms: - Extended ankle support - Weather protection integration - Fashion and functional combinations",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#safety-considerations-and-injury-prevention",
+    "href": "modules/01-introduction/06-platform-shoes.html#safety-considerations-and-injury-prevention",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Balance Challenges: - Altered center of gravity - Increased fall risk - Stair navigation difficulties\nAnkle Vulnerability: - Rolling and twisting injuries - Ligament strain potential - Stability training importance\n\n\n\nGradual Adaptation:\nWeek 1-2: 30 minutes daily wear\nWeek 3-4: 2-3 hours daily wear\nWeek 5+: Full-day wear capability\nSafety Practices: - Proper sizing and fit verification - Surface awareness and navigation - Emergency removal techniques - Balance and stability exercises\n\n\n\n\n\n\nWarningSafety Alert\n\n\n\nBeginners should start with lower platforms (1-2 inches) and gradually increase height as balance and confidence develop. Never attempt extreme platforms without proper preparation and practice.",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#real-world-application-scenarios",
+    "href": "modules/01-introduction/06-platform-shoes.html#real-world-application-scenarios",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Situation: Professional dancer requires platforms for stage presence while maintaining performance capability.\nAnalysis: - Performance requirements vs. safety balance - Stage surface considerations - Costume integration needs - Quick-change capabilities\nSolution: - Custom-fitted 3-inch platforms with enhanced ankle support - Non-slip sole modifications for stage surfaces - Quick-release buckle system for costume changes - Extensive rehearsal and adaptation period\n\n\n\nSituation: Professional seeks subtle height enhancement for business environments.\nAnalysis: - Professional appearance requirements - All-day comfort needs - Stair and elevator navigation - Client interaction considerations\nSolution: - 1.5-inch dress shoe platforms with arch support - Professional leather construction - Gradual introduction with comfort monitoring - Alternative flat shoes for high-mobility days",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#health-implications-and-biomechanical-effects",
+    "href": "modules/01-introduction/06-platform-shoes.html#health-implications-and-biomechanical-effects",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Posture improvement: Enhanced spine alignment in some cases\nConfidence boost: Psychological benefits of increased height\nCalf muscle engagement: Strengthening through altered walking pattern\n\n\n\n\n\nAchilles tendon shortening: With prolonged high platform wear\nBalance dependency: Reduced proprioceptive feedback\nJoint stress: Altered weight distribution effects\n\n\n\n\nDaily Assessment: - Foot and ankle comfort levels - Balance confidence ratings - Any pain or discomfort indicators - Walking pattern observations\nWeekly Evaluation: - Overall satisfaction with platform use - Any developing issues or concerns - Adaptation progress measurements - Alternative footwear rotation needs",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#selection-criteria-and-decision-framework",
+    "href": "modules/01-introduction/06-platform-shoes.html#selection-criteria-and-decision-framework",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Professional Settings: - Subtle platforms (1-2 inches maximum) - Conservative styling and colors - All-day comfort prioritization - Professional appearance maintenance\nSocial Events: - Moderate to dramatic platforms acceptable - Fashion-forward styling options - Event duration considerations - Outfit coordination importance\nPerformance Applications: - Function-specific design requirements - Enhanced safety features - Audience visibility considerations - Movement requirement accommodation\n\n\n\nPhysical Considerations: - Current height and desired enhancement - Balance and coordination abilities - Existing foot or ankle conditions - Activity level and mobility needs\nLifestyle Integration: - Daily routine compatibility - Transportation considerations - Storage and maintenance requirements - Budget and investment justification",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#practical-exercises-and-applications",
+    "href": "modules/01-introduction/06-platform-shoes.html#practical-exercises-and-applications",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Objective: Evaluate personal stability and comfort with different platform heights.\nMaterials Needed: - Various platform shoes (1, 2, 3+ inches) - Stable practice surface - Timer - Safety spotter\nProcedure: 1. Start with lowest platform height 2. Stand still for 30 seconds, assess comfort 3. Walk 10 steps forward and backward 4. Practice stair climbing (if available) 5. Record comfort and confidence levels 6. Progress to next height level 7. Identify optimal height for regular wear\nAssessment Criteria: - Balance confidence (1-10 scale) - Comfort level (1-10 scale) - Walking naturalness (1-10 scale) - Overall suitability rating\n\n\n\nObjective: Practice coordinating platform shoes with various outfit styles.\nMaterials: - Selection of platform shoes - Various clothing options - Full-length mirror - Style reference materials\nTasks: 1. Create professional outfit with subtle platforms 2. Design casual ensemble with moderate platforms 3. Plan evening look with dramatic platforms 4. Assess proportions and aesthetic balance 5. Document successful combinations\n\n\n\nObjective: Develop skills for safe platform wear in various situations.\nScenarios to Practice: - Navigating stairs safely - Getting in and out of vehicles - Walking on uneven surfaces - Emergency quick removal - Recovery from minor stumbles\n\n\n\n\n\n\nTipProfessional Insight\n\n\n\nMany fashion stylists recommend the “elevator test” - if you can’t confidently navigate an elevator entrance and exit in your platforms, they may be too high for practical wear.",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#quality-assessment-and-selection-tips",
+    "href": "modules/01-introduction/06-platform-shoes.html#quality-assessment-and-selection-tips",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Platform Attachment: - Secure bonding methods - No visible separation or gaps - Uniform thickness distribution - Durable adhesive or mechanical fastening\nMaterial Quality: - Appropriate density for weight support - Resistance to compression and wear - Moisture resistance properties - Longevity under regular use\n\n\n\nCritical Fit Points: - Heel security and slip prevention - Arch support adequacy - Toe box comfort and space - Overall foot stability within shoe\nComfort Testing Protocol: 1. Wear for 15 minutes in store 2. Test various movements and positions 3. Check for pressure points or rubbing 4. Verify proper sizing across all areas 5. Consider break-in period requirements",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#industry-trends-and-future-developments",
+    "href": "modules/01-introduction/06-platform-shoes.html#industry-trends-and-future-developments",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Sustainable materials: Eco-friendly platform construction\nCustomization options: Personal fit and style preferences\nTechnology integration: Smart features and comfort enhancements\nInclusive sizing: Extended size ranges and width options\n\n\n\n\n\nAdaptive platforms: Height-adjustable mechanisms\nSmart cushioning: Responsive comfort technologies\nLightweight composites: Reduced weight with maintained strength\n3D printing applications: Custom-fitted platform creation",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#conclusion-and-key-takeaways",
+    "href": "modules/01-introduction/06-platform-shoes.html#conclusion-and-key-takeaways",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "Platform shoes represent a unique intersection of fashion, function, and personal expression. Success with platform wear requires:\nEssential Preparation: - Understanding historical and cultural context - Proper selection based on individual needs - Gradual adaptation and safety awareness - Quality assessment and fit prioritization\nOngoing Considerations: - Regular comfort and safety monitoring - Appropriate occasion-based selection - Maintenance of alternative footwear options - Continuous assessment of personal satisfaction\nProfessional Development: - Stay informed about industry trends - Develop expertise in fit assessment - Understand biomechanical implications - Maintain focus on individual client needs\nPlatform shoes, when properly selected and worn, can provide both practical benefits and personal satisfaction while maintaining safety and comfort standards.",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-platform-shoes.html#assessment-and-reflection",
+    "href": "modules/01-introduction/06-platform-shoes.html#assessment-and-reflection",
+    "title": "Platform Shoes",
+    "section": "",
+    "text": "What historical period most influences your platform shoe preferences and why?\nHow would you assess your personal readiness for different platform heights?\nWhat safety considerations are most relevant to your lifestyle and needs?\nHow do platform shoes fit into your personal style and professional requirements?\n\n\n\n\nDevelop a personal platform shoe strategy including: - Preferred height ranges for different occasions - Safety practices and adaptation timeline - Budget considerations and quality priorities - Integration with existing wardrobe and lifestyle\n\n\n\n\n\n\nNoteProfessional Development\n\n\n\nConsider exploring specialized training in footwear fitting, biomechanics, or fashion styling to deepen your expertise in platform shoe applications and recommendations.",
+    "crumbs": [
+      "Introduction",
+      "Platform Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-selecting-shoes.html",
+    "href": "modules/01-introduction/01-selecting-shoes.html",
+    "title": "Selecting Shoes",
+    "section": "",
+    "text": "Selecting Appropriate Footwear",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
+    "href": "modules/01-introduction/01-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
+    "title": "Selecting Shoes",
+    "section": "Why Footwear Matters in Accessibility Testing",
+    "text": "Why Footwear Matters in Accessibility Testing\n\n\n\n\n\n\nNoteKey Insight\n\n\n\nYour choice of footwear can affect your mobility, balance, and ability to simulate real-world user scenarios during accessibility testing.\n\n\n\nTesting Scenarios Where Footwear Matters\n\nMobile Device Testing While Walking\n\nTesting apps during navigation scenarios\nEvaluating touch targets while in motion\nAssessing readability in various lighting conditions\n\nPhysical Accessibility Testing\n\nTesting wheelchair accessibility features\nEvaluating navigation aids and wayfinding\nSimulating mobility challenges\n\nVoice Interface Testing\n\nTesting in noisy environments (heel clicks, sole squeaks)\nEvaluating voice commands while moving",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-selecting-shoes.html#footwear-recommendations-by-testing-type",
+    "href": "modules/01-introduction/01-selecting-shoes.html#footwear-recommendations-by-testing-type",
+    "title": "Selecting Shoes",
+    "section": "Footwear Recommendations by Testing Type",
+    "text": "Footwear Recommendations by Testing Type\n\nFor Mobile Interface Testing\n\nComfortable sneakers: Provide stability when testing while walking\nNon-slip soles: Essential for outdoor testing scenarios\nQuiet footwear: Minimize background noise during voice testing\n\n\n\nFor Desktop/Stationary Testing\n\nSupportive shoes: Important for long testing sessions\nComfortable fit: Reduces fatigue during extended periods\nProfessional appearance: Appropriate for client meetings\n\n\n\nFor Field Testing\n\nWeather-appropriate: Waterproof for outdoor scenarios\nDurable construction: Handle various testing environments\nSafety features: Non-slip, protective if needed\n\n\n\n\n\n\n\nWarningSafety First\n\n\n\nAlways prioritize safety when selecting footwear for testing scenarios. Inappropriate shoes can lead to accidents and compromise your ability to conduct thorough testing.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-selecting-shoes.html#environmental-considerations",
+    "href": "modules/01-introduction/01-selecting-shoes.html#environmental-considerations",
+    "title": "Selecting Shoes",
+    "section": "Environmental Considerations",
+    "text": "Environmental Considerations\n\nIndoor Testing Environments\n\nConsider noise levels (hard soles vs. soft soles)\nRespect facility requirements (some require specific footwear)\nEnsure comfort for extended periods\n\n\n\nOutdoor Testing Scenarios\n\nWeather conditions (rain, snow, heat)\nTerrain considerations (uneven surfaces, stairs)\nDuration of testing activities",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-selecting-shoes.html#best-practices",
+    "href": "modules/01-introduction/01-selecting-shoes.html#best-practices",
+    "title": "Selecting Shoes",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nPlan Ahead: Review your testing agenda and environment\nBring Alternatives: Pack backup footwear when possible\nConsider Users: Think about how your target users might be dressed\nTest Realistically: Choose shoes that match real-world usage scenarios\nDocument Impact: Note how footwear choices affect testing results\n\n\n\n\n\n\n\nTipPro Tip\n\n\n\nKeep a pair of comfortable, quiet testing shoes in your work bag. This ensures you’re always prepared for impromptu testing sessions.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-selecting-shoes.html#summary",
+    "href": "modules/01-introduction/01-selecting-shoes.html#summary",
+    "title": "Selecting Shoes",
+    "section": "Summary",
+    "text": "Summary\nWhile often overlooked, footwear selection plays a practical role in accessibility testing effectiveness. By choosing appropriate shoes for different testing scenarios, you can:\n\nMaintain safety and comfort during testing\nReduce environmental factors that might skew results\nBetter simulate real-world user conditions\nConduct more thorough and realistic accessibility evaluations\n\nNext, we’ll explore the foundational principles of web accessibility that guide all our testing efforts.",
+    "crumbs": [
+      "Introduction",
+      "Selecting Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-tying-shoelaces.html",
+    "href": "modules/01-introduction/03-tying-shoelaces.html",
+    "title": "Tying Shoelaces",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nDemonstrate the basic bow knot and at least two advanced tying techniques\nCompare different lacing methods and their appropriate applications\nTroubleshoot common shoelace problems and implement effective solutions",
+    "crumbs": [
+      "Introduction",
+      "Tying Shoelaces"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-tying-shoelaces.html#learning-outcomes",
+    "href": "modules/01-introduction/03-tying-shoelaces.html#learning-outcomes",
+    "title": "Tying Shoelaces",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nDemonstrate the basic bow knot and at least two advanced tying techniques\nCompare different lacing methods and their appropriate applications\nTroubleshoot common shoelace problems and implement effective solutions",
+    "crumbs": [
+      "Introduction",
+      "Tying Shoelaces"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-tying-shoelaces.html#brief-outline",
+    "href": "modules/01-introduction/03-tying-shoelaces.html#brief-outline",
+    "title": "Tying Shoelaces",
+    "section": "Brief Outline",
+    "text": "Brief Outline\n\n1. Fundamentals\n\nBasic bow knot technique\nKnot security principles\nProper tension and tightness\n\n\n\n2. Advanced Methods\n\nIan Knot (fastest technique)\nSurgeon’s knot (extra security)\nDouble knot variations\nLoop-through methods\n\n\n\n3. Lacing Patterns\n\nStraight bar lacing\nLadder lacing\nSkip lacing techniques\nHeel lock methods\n\n\n\n4. Problem-Solving\n\nPreventing knots from coming undone\nDealing with uneven lace lengths\nAddressing pressure points\nQuick fixes for broken laces\n\n\n\n5. Activity-Specific Applications\n\nRunning and athletic activities\nFormal and dress shoe lacing\nWork boot security methods\nQuick-release techniques\n\n\n\n\n\n\n\nTipPro Tip\n\n\n\nThe key to secure shoelace tying is understanding the difference between a granny knot (which comes undone easily) and a reef knot (which stays secure). Most people accidentally tie granny knots!",
+    "crumbs": [
+      "Introduction",
+      "Tying Shoelaces"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-tying-shoelaces.html#practice-exercise",
+    "href": "modules/01-introduction/03-tying-shoelaces.html#practice-exercise",
+    "title": "Tying Shoelaces",
+    "section": "Practice Exercise",
+    "text": "Practice Exercise\nTry tying your shoes using three different methods: 1. Your usual technique 2. The Ian Knot (look it up online) 3. A surgeon’s knot variation\nNote which feels most secure and which is fastest for you.\n\n\n\n\n\n\nNoteRemember\n\n\n\nThe best shoelace tying method is the one that keeps your shoes secure and comfortable for your specific activities and foot shape.",
+    "crumbs": [
+      "Introduction",
+      "Tying Shoelaces"
     ]
   },
   {
@@ -173,65 +374,288 @@
     "href": "modules/01-introduction/02-selecting-shoes.html",
     "title": "Selecting Shoes",
     "section": "",
-    "text": "Selecting Appropriate Footwear",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
+    "text": "Selecting Appropriate Footwear"
   },
   {
     "objectID": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
     "href": "modules/01-introduction/02-selecting-shoes.html#why-footwear-matters-in-accessibility-testing",
     "title": "Selecting Shoes",
     "section": "Why Footwear Matters in Accessibility Testing",
-    "text": "Why Footwear Matters in Accessibility Testing\n\n\n\n\n\n\nNoteKey Insight\n\n\n\nYour choice of footwear can affect your mobility, balance, and ability to simulate real-world user scenarios during accessibility testing.\n\n\n\nTesting Scenarios Where Footwear Matters\n\nMobile Device Testing While Walking\n\nTesting apps during navigation scenarios\nEvaluating touch targets while in motion\nAssessing readability in various lighting conditions\n\nPhysical Accessibility Testing\n\nTesting wheelchair accessibility features\nEvaluating navigation aids and wayfinding\nSimulating mobility challenges\n\nVoice Interface Testing\n\nTesting in noisy environments (heel clicks, sole squeaks)\nEvaluating voice commands while moving",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
+    "text": "Why Footwear Matters in Accessibility Testing\n\n\n\n\n\n\nNoteKey Insight\n\n\n\nYour choice of footwear can affect your mobility, balance, and ability to simulate real-world user scenarios during accessibility testing.\n\n\n\nTesting Scenarios Where Footwear Matters\n\nMobile Device Testing While Walking\n\nTesting apps during navigation scenarios\nEvaluating touch targets while in motion\nAssessing readability in various lighting conditions\n\nPhysical Accessibility Testing\n\nTesting wheelchair accessibility features\nEvaluating navigation aids and wayfinding\nSimulating mobility challenges\n\nVoice Interface Testing\n\nTesting in noisy environments (heel clicks, sole squeaks)\nEvaluating voice commands while moving"
   },
   {
     "objectID": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
     "href": "modules/01-introduction/02-selecting-shoes.html#footwear-recommendations-by-testing-type",
     "title": "Selecting Shoes",
     "section": "Footwear Recommendations by Testing Type",
-    "text": "Footwear Recommendations by Testing Type\n\nFor Mobile Interface Testing\n\nComfortable sneakers: Provide stability when testing while walking\nNon-slip soles: Essential for outdoor testing scenarios\nQuiet footwear: Minimize background noise during voice testing\n\n\n\nFor Desktop/Stationary Testing\n\nSupportive shoes: Important for long testing sessions\nComfortable fit: Reduces fatigue during extended periods\nProfessional appearance: Appropriate for client meetings\n\n\n\nFor Field Testing\n\nWeather-appropriate: Waterproof for outdoor scenarios\nDurable construction: Handle various testing environments\nSafety features: Non-slip, protective if needed\n\n\n\n\n\n\n\nWarningSafety First\n\n\n\nAlways prioritize safety when selecting footwear for testing scenarios. Inappropriate shoes can lead to accidents and compromise your ability to conduct thorough testing.",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
+    "text": "Footwear Recommendations by Testing Type\n\nFor Mobile Interface Testing\n\nComfortable sneakers: Provide stability when testing while walking\nNon-slip soles: Essential for outdoor testing scenarios\nQuiet footwear: Minimize background noise during voice testing\n\n\n\nFor Desktop/Stationary Testing\n\nSupportive shoes: Important for long testing sessions\nComfortable fit: Reduces fatigue during extended periods\nProfessional appearance: Appropriate for client meetings\n\n\n\nFor Field Testing\n\nWeather-appropriate: Waterproof for outdoor scenarios\nDurable construction: Handle various testing environments\nSafety features: Non-slip, protective if needed\n\n\n\n\n\n\n\nWarningSafety First\n\n\n\nAlways prioritize safety when selecting footwear for testing scenarios. Inappropriate shoes can lead to accidents and compromise your ability to conduct thorough testing."
   },
   {
     "objectID": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
     "href": "modules/01-introduction/02-selecting-shoes.html#environmental-considerations",
     "title": "Selecting Shoes",
     "section": "Environmental Considerations",
-    "text": "Environmental Considerations\n\nIndoor Testing Environments\n\nConsider noise levels (hard soles vs. soft soles)\nRespect facility requirements (some require specific footwear)\nEnsure comfort for extended periods\n\n\n\nOutdoor Testing Scenarios\n\nWeather conditions (rain, snow, heat)\nTerrain considerations (uneven surfaces, stairs)\nDuration of testing activities",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
+    "text": "Environmental Considerations\n\nIndoor Testing Environments\n\nConsider noise levels (hard soles vs. soft soles)\nRespect facility requirements (some require specific footwear)\nEnsure comfort for extended periods\n\n\n\nOutdoor Testing Scenarios\n\nWeather conditions (rain, snow, heat)\nTerrain considerations (uneven surfaces, stairs)\nDuration of testing activities"
   },
   {
     "objectID": "modules/01-introduction/02-selecting-shoes.html#best-practices",
     "href": "modules/01-introduction/02-selecting-shoes.html#best-practices",
     "title": "Selecting Shoes",
     "section": "Best Practices",
-    "text": "Best Practices\n\nPlan Ahead: Review your testing agenda and environment\nBring Alternatives: Pack backup footwear when possible\nConsider Users: Think about how your target users might be dressed\nTest Realistically: Choose shoes that match real-world usage scenarios\nDocument Impact: Note how footwear choices affect testing results\n\n\n\n\n\n\n\nTipPro Tip\n\n\n\nKeep a pair of comfortable, quiet testing shoes in your work bag. This ensures you’re always prepared for impromptu testing sessions.",
-    "crumbs": [
-      "Introduction",
-      "Selecting Shoes"
-    ]
+    "text": "Best Practices\n\nPlan Ahead: Review your testing agenda and environment\nBring Alternatives: Pack backup footwear when possible\nConsider Users: Think about how your target users might be dressed\nTest Realistically: Choose shoes that match real-world usage scenarios\nDocument Impact: Note how footwear choices affect testing results\n\n\n\n\n\n\n\nTipPro Tip\n\n\n\nKeep a pair of comfortable, quiet testing shoes in your work bag. This ensures you’re always prepared for impromptu testing sessions."
   },
   {
     "objectID": "modules/01-introduction/02-selecting-shoes.html#summary",
     "href": "modules/01-introduction/02-selecting-shoes.html#summary",
     "title": "Selecting Shoes",
     "section": "Summary",
-    "text": "Summary\nWhile often overlooked, footwear selection plays a practical role in accessibility testing effectiveness. By choosing appropriate shoes for different testing scenarios, you can:\n\nMaintain safety and comfort during testing\nReduce environmental factors that might skew results\nBetter simulate real-world user conditions\nConduct more thorough and realistic accessibility evaluations\n\nNext, we’ll explore the foundational principles of web accessibility that guide all our testing efforts.",
+    "text": "Summary\nWhile often overlooked, footwear selection plays a practical role in accessibility testing effectiveness. By choosing appropriate shoes for different testing scenarios, you can:\n\nMaintain safety and comfort during testing\nReduce environmental factors that might skew results\nBetter simulate real-world user conditions\nConduct more thorough and realistic accessibility evaluations\n\nNext, we’ll explore the foundational principles of web accessibility that guide all our testing efforts."
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html",
+    "href": "modules/01-introduction/04-polishing-shoes.html",
+    "title": "Polishing Shoes",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nAnalyze therapeutic and medical applications of specialized shoe care\nApply cultural and artistic polishing techniques for ceremonial purposes\nEvaluate emerging technologies and research developments in shoe care science",
     "crumbs": [
       "Introduction",
-      "Selecting Shoes"
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#learning-outcomes",
+    "href": "modules/01-introduction/04-polishing-shoes.html#learning-outcomes",
+    "title": "Polishing Shoes",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nAnalyze therapeutic and medical applications of specialized shoe care\nApply cultural and artistic polishing techniques for ceremonial purposes\nEvaluate emerging technologies and research developments in shoe care science",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#therapeutic-shoe-care",
+    "href": "modules/01-introduction/04-polishing-shoes.html#therapeutic-shoe-care",
+    "title": "Polishing Shoes",
+    "section": "1. Therapeutic Shoe Care",
+    "text": "1. Therapeutic Shoe Care\n\nMedical Applications\nProper shoe care becomes critical for individuals with specific health conditions:\nDiabetic Foot Care: - Antimicrobial treatments to prevent infections - pH-balanced conditioners to maintain leather flexibility - Regular inspection protocols during cleaning - Temperature-sensitive polish application\nOrthopedic Considerations: - Specialized conditioning for custom orthotics integration - Pressure point monitoring through care routines - Material compatibility with medical devices - Hygiene protocols for shared footwear\n\n\n\n\n\n\nImportantHealth Priority\n\n\n\nFor individuals with compromised immune systems or circulation issues, shoe care becomes a medical necessity, not just aesthetics.\n\n\n\n\nCase Study: Diabetic Patient Care Protocol\nMaria, a 58-year-old with Type 2 diabetes, requires specialized shoe care: - Daily inspection during cleaning routine - Antifungal conditioning treatments weekly - Temperature testing of polishes before application - Documentation of wear patterns for medical team",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#cultural-and-ceremonial-traditions",
+    "href": "modules/01-introduction/04-polishing-shoes.html#cultural-and-ceremonial-traditions",
+    "title": "Polishing Shoes",
+    "section": "2. Cultural and Ceremonial Traditions",
+    "text": "2. Cultural and Ceremonial Traditions\n\nMilitary Dress Codes\nParade Standards: - Mirror shine requirements (15+ coats minimum) - Edge polishing for uniform appearance - Timing protocols (24-hour preparation minimum) - Inspection criteria and evaluation rubrics\nHistorical Significance: - British Guard traditions dating to 1660s - U.S. Military Academy “spit shine” protocols - Naval ceremonial requirements - Air Force honor guard standards\n\n\nWedding and Religious Ceremonies\nCultural Variations: - Japanese formal footwear preparation rituals - Jewish wedding shoe traditions - Hindu ceremonial footwear blessing - Christian formal service requirements\n\n\n\n\n\n\nTipCultural Sensitivity\n\n\n\nUnderstanding cultural significance helps professionals provide appropriate service levels for ceremonial occasions.",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#artistic-customization-techniques",
+    "href": "modules/01-introduction/04-polishing-shoes.html#artistic-customization-techniques",
+    "title": "Polishing Shoes",
+    "section": "3. Artistic Customization Techniques",
+    "text": "3. Artistic Customization Techniques\n\nPatina Creation\nAdvanced Color Techniques: 1. Base layer preparation with neutral conditioner 2. Gradient application using multiple polish tones 3. Heat activation for color blending 4. Protective sealing for longevity\nTools for Artistic Work: - Fine-bristled artist brushes - Heat guns for controlled warming - Color-mixing palettes - Precision masking materials\n\n\nRestoration Projects\nMuseum-Quality Work: - Historical accuracy research - Period-appropriate materials sourcing - Documentation photography protocols - Conservation vs. restoration decisions\nCollector Item Rehabilitation: - Value preservation considerations - Reversible treatment preferences - Authentication maintenance - Market impact assessments",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#technology-integration",
+    "href": "modules/01-introduction/04-polishing-shoes.html#technology-integration",
+    "title": "Polishing Shoes",
+    "section": "4. Technology Integration",
+    "text": "4. Technology Integration\n\nModern Innovations\nUV-Curing Treatments: - Instant drying capabilities - Enhanced durability properties - Color stability improvements - Environmental control requirements\nAutomated Systems: - Robotic polishing machines - Consistent pressure application - Quality control sensors - Efficiency metrics tracking\nSmart Care Products: - pH-indicating conditioners - Temperature-sensitive formulations - IoT-connected care reminders - Usage tracking applications\n\n\n\n\n\n\nNoteFuture Trends\n\n\n\nTechnology integration is rapidly advancing, with AI-powered care recommendations and predictive maintenance becoming commercially available.\n\n\n\n\nResearch Case Study: Smart Shoe Care System\nTech startup “SoleGuard” developed: - Embedded sensors measuring leather moisture - Mobile app with care scheduling - Product recommendation algorithms - Predictive replacement timing - 73% improvement in shoe longevity during trials",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#educational-methodology",
+    "href": "modules/01-introduction/04-polishing-shoes.html#educational-methodology",
+    "title": "Polishing Shoes",
+    "section": "5. Educational Methodology",
+    "text": "5. Educational Methodology\n\nTeaching Frameworks\nProgressive Skill Development: 1. Beginner: Basic cleaning and simple polish application 2. Intermediate: Multiple materials and advanced techniques 3. Advanced: Artistic applications and problem-solving 4. Expert: Innovation and teaching others\nAssessment Methods: - Practical skill demonstrations - Written knowledge evaluations - Portfolio development projects - Peer teaching assignments\n\n\nInstructional Design Principles\nHands-On Learning: - 70% practical application time - Real-world scenario practice - Mistake-based learning opportunities - Immediate feedback mechanisms\nDifferentiated Instruction: - Visual learner support (video demonstrations) - Kinesthetic activities (hands-on practice) - Auditory explanations (technique narration) - Reading/writing (care logs and documentation)",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#research-and-development",
+    "href": "modules/01-introduction/04-polishing-shoes.html#research-and-development",
+    "title": "Polishing Shoes",
+    "section": "6. Research and Development",
+    "text": "6. Research and Development\n\nCurrent Scientific Studies\nLeather Chemistry Research: - Molecular analysis of aging processes - Polymer science applications - Nanotechnology integration - Biodegradability improvements\nConsumer Behavior Analysis: - Purchase decision factors - Care routine compliance rates - Professional vs. DIY preferences - Environmental concern impacts\n\n\nIndustry Collaboration\nAcademic Partnerships: - University leather science programs - Materials engineering research - Sustainability impact studies - Consumer psychology investigations\nCorporate R&D: - Product formulation improvements - Manufacturing process optimization - Market trend analysis - Competitive advantage development",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#practice-exercise-innovation-project",
+    "href": "modules/01-introduction/04-polishing-shoes.html#practice-exercise-innovation-project",
+    "title": "Polishing Shoes",
+    "section": "Practice Exercise: Innovation Project",
+    "text": "Practice Exercise: Innovation Project\nDesign Challenge: Develop a concept for next-generation shoe care that addresses: 1. Environmental sustainability concerns 2. Accessibility for users with physical limitations 3. Integration with smart home systems 4. Cultural sensitivity requirements\nDeliverables: - Problem statement (200 words) - Solution concept sketch - Implementation timeline - Success metrics definition\nEvaluation Criteria: - Innovation level (25%) - Feasibility assessment (25%) - Market potential (25%) - Social impact (25%)",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#reflection-questions",
+    "href": "modules/01-introduction/04-polishing-shoes.html#reflection-questions",
+    "title": "Polishing Shoes",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nHow might medical applications of shoe care evolve with advancing healthcare technology?\nWhat cultural traditions in your region influence footwear care practices?\nHow could artistic techniques be adapted for mass-market applications?\nWhat ethical considerations arise when developing smart shoe care technologies?\nHow would you design a curriculum for teaching advanced polishing to diverse learners?\n\n\n\n\n\n\n\nTipProfessional Development\n\n\n\nThis specialized knowledge positions you for advanced roles in luxury retail, cultural institutions, healthcare settings, or educational organizations.",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-polishing-shoes.html#summary",
+    "href": "modules/01-introduction/04-polishing-shoes.html#summary",
+    "title": "Polishing Shoes",
+    "section": "Summary",
+    "text": "Summary\nThis lesson explored the cutting-edge applications of shoe polishing beyond traditional maintenance, including therapeutic care, cultural significance, artistic expression, technological innovation, educational methodology, and research developments. These specialized applications demonstrate how fundamental skills can evolve into professional expertise across multiple industries and cultural contexts.",
+    "crumbs": [
+      "Introduction",
+      "Polishing Shoes"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html",
+    "href": "modules/01-introduction/shoes-assessment.html",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "Test your understanding of appropriate footwear selection for accessibility testing scenarios.\n\n\n\nWhen conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing.\n\n\n\n\n\n\n\nWhich type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment.\n\n\n\n\n\n\n\nFor extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time.\n\n\n\n\n\n\n\nWhen testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids.\n\n\n\n\n\n\n\nWhat is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices.\n\n\n\n\n\n\n\n\n5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles."
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-1",
+    "href": "modules/01-introduction/shoes-assessment.html#question-1",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "When conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing."
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-2",
+    "href": "modules/01-introduction/shoes-assessment.html#question-2",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "Which type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment."
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-3",
+    "href": "modules/01-introduction/shoes-assessment.html#question-3",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "For extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time."
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-4",
+    "href": "modules/01-introduction/shoes-assessment.html#question-4",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "When testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids."
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#question-5",
+    "href": "modules/01-introduction/shoes-assessment.html#question-5",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "What is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices."
+  },
+  {
+    "objectID": "modules/01-introduction/shoes-assessment.html#results",
+    "href": "modules/01-introduction/shoes-assessment.html#results",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles."
+  },
+  {
+    "objectID": "modules/01-introduction/05-shoes-assessment.html",
+    "href": "modules/01-introduction/05-shoes-assessment.html",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "Test your understanding of appropriate footwear selection for accessibility testing scenarios.\n\n\n\nWhen conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing.\n\n\n\n\n\n\n\nWhich type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment.\n\n\n\n\n\n\n\nFor extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time.\n\n\n\n\n\n\n\nWhen testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids.\n\n\n\n\n\n\n\nWhat is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices.\n\n\n\n\n\n\n\n\n5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-shoes-assessment.html#question-1",
+    "href": "modules/01-introduction/05-shoes-assessment.html#question-1",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "When conducting mobile app testing while walking outdoors, which footwear characteristic is MOST important for safety?\n\nFashionable appearance\nNon-slip soles\nHigh heels for better posture\nOpen-toed design for comfort\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Non-slip soles\nNon-slip soles are crucial for safety when testing mobile apps while walking, especially outdoors where surfaces may be wet, uneven, or slippery. This prevents accidents and allows for more focused testing.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-shoes-assessment.html#question-2",
+    "href": "modules/01-introduction/05-shoes-assessment.html#question-2",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "Which type of footwear would be LEAST appropriate for voice interface testing in a quiet office environment?\n\nSoft-soled sneakers\nRubber-soled shoes\nHigh heels with hard soles\nSlip-on loafers\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) High heels with hard soles\nHard-soled high heels create significant noise when walking, which can interfere with voice interface testing by creating background noise that affects both voice recognition accuracy and the testing environment.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-shoes-assessment.html#question-3",
+    "href": "modules/01-introduction/05-shoes-assessment.html#question-3",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "For extended desktop accessibility testing sessions lasting 6-8 hours, what should be the PRIMARY consideration in footwear selection?\n\nProfessional appearance only\nComfort and support\nEase of removal\nColor coordination with outfit\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nb) Comfort and support\nFor long testing sessions, comfort and support are essential to prevent fatigue and maintain focus. Uncomfortable footwear can become a distraction and reduce testing effectiveness over time.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-shoes-assessment.html#question-4",
+    "href": "modules/01-introduction/05-shoes-assessment.html#question-4",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "When testing accessibility features for users with mobility challenges, which approach to footwear selection is most appropriate?\n\nAlways wear the most comfortable shoes available\nChoose shoes that match the target user demographic\nWear different types of shoes to simulate various user conditions\nFootwear choice doesn’t matter for this type of testing\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) Wear different types of shoes to simulate various user conditions\nTo thoroughly test accessibility features for users with mobility challenges, testers should experience different footwear scenarios that their target users might encounter, such as orthopedic shoes, different heel heights, or mobility aids.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-shoes-assessment.html#question-5",
+    "href": "modules/01-introduction/05-shoes-assessment.html#question-5",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "What is the main reason to keep a pair of “testing shoes” in your work equipment?\n\nTo have a backup in case your regular shoes break\nTo maintain a professional appearance during client meetings\nTo ensure consistent, appropriate footwear for impromptu testing sessions\nTo comply with workplace dress codes\n\n\n\n\n\n\n\nNoteAnswer\n\n\n\n\n\nc) To ensure consistent, appropriate footwear for impromptu testing sessions\nKeeping dedicated testing shoes ensures you’re always prepared for unexpected testing opportunities and can maintain consistency in your testing approach regardless of your daily footwear choices.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-shoes-assessment.html#results",
+    "href": "modules/01-introduction/05-shoes-assessment.html#results",
+    "title": "Selecting Shoes - Assessment",
+    "section": "",
+    "text": "5/5 correct: Excellent! You understand the importance of appropriate footwear selection in accessibility testing.\n4/5 correct: Good work! Review the areas where you missed questions.\n3/5 correct: You’re on the right track. Consider reviewing the lesson content.\nBelow 3/5: Please review the lesson material and retake the assessment.\n\n\n\n\n\n\n\nTipNext Steps\n\n\n\nOnce you’ve completed this assessment, proceed to the next lesson on foundational accessibility principles.",
+    "crumbs": [
+      "Introduction",
+      "Shoes Assessment"
     ]
   }
 ]
